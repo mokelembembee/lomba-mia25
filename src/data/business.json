@@ -1,3 +1,4 @@
+
 [
 	{
 		"name": "Nasi Goreng Pak Ohim",
@@ -5,11 +6,11 @@
 		"category": "Kuliner",
 		"description": "Warung Nasi Goreng",
 		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"imageUrl": "/images/thumbnails/ohim.jpeg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.863657688552585,
+			"lng": 107.5876116618651
 		},
 
 		"items": [
@@ -39,95 +40,103 @@
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Tempatnya Nyaman",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
+		"rating": 4.7,
 		"reviewedBy": 523
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
+		"name": "Cimol Bojot AA",
+		"slug": "cimol-bojot-aa",
 		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"description": "Warung Cimol Bojot",
+		"tag": "JAJANENAK",
+		"imageUrl": "/images/thumbnails/cimol.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.863649121663564,
+			"lng": 107.58950865279441
+
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "Cimol Bojot Original",
+				"description": "Cimol yang dibumbui dengan beberapa pilihan rasa dan level pedas yang dilengkapi daun jeruk dan bawang goreng.",
+				"price": 12000,
+				"imageUrl": "https://static.promediateknologi.id/crop/0x87:1170x916/750x500/webp/photo/p1/79/2024/12/28/IMG_1953-3204283327.jpeg"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Cimol Bojot Mozarella",
+				"description": "Cimol yang berisi mozarella yang membuat rasanya balance pedas dan creamy",
+				"price": 20000,
+				"imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9175a4d0-5be9-461d-b27f-98a6e4bcc908_Go-Food-Merchant_20250508_081810.jpeg"
+			},
+            {
+				"name": "Cimol Bojot Beef",
+				"description": "Cimol yang berisi Beef dengan daging sapi asli",
+				"price": 20000,
+				"imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e76baaf2-0dd6-485f-808f-439a967c1b81_Go-Food-Merchant_20250624_182025.jpeg"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "10.00-22.00",
 
 		"facilities": [
 			{
-				"name": "Porsi Besar",
+				"name": "Jajan Enak Khas Bandung",
 				"icon": "Coffee"
 			},
 			{
-				"name": "Harga Murah",
+				"name": "Pedasnya Bikin Nagih",
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Mozarella Lumet diMulut",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.9,
+		"reviewedBy": 16498
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
-		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"name": "Photocopy Satria",
+		"slug": "photocopy-satria",
+		"category": "Elektronik",
+		"description": "Menyediakan layanan jasa cetak dan beberapa peralatan sekolah",
+		"tag": "FOTOKOPI24JAM",
+		"imageUrl": "/images/thumbnails/satria.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.864034162151931,
+			"lng": 107.58446308636468
+
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "Print A4",
+				"description": "Print 1 lembar",
+				"price": 1000,
+				"imageUrl": "https://sidu.id/documents/287278/309548/29+A.jpg/50242a9b-da64-c66e-ca66-f50d9fabbc16?t=1634794452506"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Cetak Foto",
+				"description": "Cetak foto minimal 3, menyesuaikan ukuran yang dipilih",
+				"price": 5000,
+				"imageUrl": "https://static.desty.app/desty-omni/20221023/f583dd115bd14de18c351a112f1129c5.jpg?x-oss-process=image/resize,w_480/format,webp"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "24 jam",
 
 		"facilities": [
 			{
-				"name": "Porsi Besar",
+				"name": "Sangat Membantu Karena 24 Jam",
 				"icon": "Coffee"
 			},
 			{
@@ -135,95 +144,96 @@
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Peralatannya Lengkap",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.7,
+		"reviewedBy": 1020
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
-		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"name": "Meylin Laundry",
+		"slug": "meylin-laundry",
+		"category": "Jasa",
+		"description": "Laundry 24 Jam",
+		"tag": "LAUNDRYWANGI",
+		"imageUrl": "/images/thumbnails/meylin.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.861762078338603,
+			"lng": 107.58446308636468
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "Cuci Kering",
+				"description": "Pakaian dicuci dengan bersih dan wangi lalu dikeringkan harga yang dihitung per-kg",
+				"price": 5000,
+				"imageUrl": "https://smb-padiumkm-images-public-prod.oss-ap-southeast-5.aliyuncs.com/product/image/15052023/6461be5286ee407264f9d2c9/6461c1a9d00985057638ac6e/0b6b0da380bb002988d62804acefd3.jpg?x-oss-process=image/resize,m_pad,w_432,h_432/quality,Q_70"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Cuci Kering dan Setrika",
+				"description": "Pakaian dicuci dengan bersih dan wangi lalu di setrika agar siap pakai dengan rapih",
+				"price": 8000,
+				"imageUrl": "https://www.hipwee.com/wp-content/uploads/2020/10/hipwee-pinjaman-dana-tunai-modal-usaha-laundry-740x431@2x-960x640.jpg"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "24 jam",
 
 		"facilities": [
-			{
-				"name": "Porsi Besar",
-				"icon": "Coffee"
-			},
 			{
 				"name": "Harga Murah",
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Pakaian wangi dan bersih",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Pengerjaan Cepat",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.8,
+		"reviewedBy": 508
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
-		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"name": "Service Jam Setia",
+		"slug": "service-jam-setia",
+		"category": "Jasa",
+		"description": "Tempat Service jam",
+		"tag": "SERVICEMURAH",
+		"imageUrl": "/images/thumbnails/jam.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.862763282292143,
+			"lng": 107.58846522482314
+
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "Penggantian baterai",
+				"description": "Jam yang sudah habis baterai bisa diganti disini dengan harga yang murah.",
+				"price": 20000,
+				"imageUrl": "https://infopublik.id/resources/album/ikm-ukm-umkm/Ganti_Baterai_Jam_Tangan_compressed.jpg"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Penggantian Starp",
+				"description": "Strap yang putus bisa di pasang kembali atau diganti",
+				"price": 40000,
+				"imageUrl": "https://wisetime.id/_next/image?url=https%3A%2F%2Fsgp1.digitaloceanspaces.com%2Fupload-file-s3%2Fwise-time%2F2%2F1740029476399-10.-Tips-Ganti-Strap-Jam-Tangan-Mewah-dengan-Aman.webp&w=1080&q=75"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "08.00-20.00",
 
 		"facilities": [
 			{
-				"name": "Porsi Besar",
+				"name": "Pengerjaannya Cepat",
 				"icon": "Coffee"
 			},
 			{
@@ -231,47 +241,48 @@
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Amanah Baterainya Awet",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.7,
+		"reviewedBy": 645
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
-		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"name": "Brader Laptop Service Komputer",
+		"slug": "brader-laptop-serive-komputer",
+		"category": "Jasa Elektronik",
+		"description": "Tempat service laptop dan beberapa alat elektronik",
+		"tag": "SERVICELAPTOP",
+		"imageUrl": "/images/thumbnails/brader.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.862763282292143,
+			"lng": 107.58846522482314
+
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "SSD 512gb",
+				"description": "Pembelian SSD 512 gb dan pemasangannya",
+				"price": 700000,
+				"imageUrl": "https://lh4.googleusercontent.com/8gheGNZM8D9eZi3l-szuVSt8KBznMQH_C7Mdyt81BsOLbuvbDqsE-5mjCIvryEru_m7XuDb5pE9CKjxh5sHxchqoMQWhI86VO2lXcl62kWb69KO4D8genjZRUDXz0rsE-85a7wthN8ggfhh45ySTb6A"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Baterai Laptop",
+				"description": "Pembelian Baterai laptop dan pemasangannya",
+				"price": 600000,
+				"imageUrl": "https://www.netcomputer.id/wp-content/uploads/2023/03/banti-baterai-laptop.jpg"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "10.00-20.30",
 
 		"facilities": [
 			{
-				"name": "Porsi Besar",
+				"name": "Pengerjaannya Cepat",
 				"icon": "Coffee"
 			},
 			{
@@ -279,47 +290,47 @@
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Konsultasi Gratis",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.8,
+		"reviewedBy": 1254
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
-		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"name": "Kosan Biru Cempaka",
+		"slug": "kosan-biru-cempaka",
+		"category": "Penginapan",
+		"description": "Kos-kosan yang disewakan pertahun dan per6bulan",
+		"tag": "KOSANNYAMAN",
+		"imageUrl": "/images/thumbnails/biru.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.861534705291604,
+			"lng":  107.58865666715167
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "Pertahun",
+				"description": "Disewakan selama pertahun.",
+				"price": 12000000,
+				"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0LRXURPpzqYMIzq7ScmWTdNpIGyfMUZ7OOgZQZIk6xH31ZvxF707ef8LXBUVb2Ai14D0&usqp=CAU"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Per6bulan",
+				"description": "Disewakan Per 6 Bulan.",
+				"price": 6000000,
+				"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAp7exepmIxPaM1C35hGNW2VFIuzVostHQSYa8CAsZ6hZzaFL5wP_EmBMft3fHS1-TJ5w&usqp=CAU"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "05.00-00.00",
 
 		"facilities": [
 			{
-				"name": "Porsi Besar",
+				"name": "Kos Nyaman dan Bersih",
 				"icon": "Coffee"
 			},
 			{
@@ -327,47 +338,48 @@
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Penjaga Kos Baik",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.9,
+		"reviewedBy": 136
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
+		"name": "Toko Sembako Aceng",
+		"slug": "toko-sembako-aceng",
 		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"description": "Toko Sembako",
+		"tag": "SEMBAKOMURAH",
+		"imageUrl": "/images/thumbnails/aceng.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.863657688552585,
+			"lng": 107.58761166186616
+
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "Beras 1 kg",
+				"description": "Beras bersih tanpa kutu dan gabah.",
+				"price": 15000,
+				"imageUrl": "https://cdn.antaranews.com/cache/1200x800/2021/01/22/rice-3997767_1920.jpg"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Telor 1 kg",
+				"description": "Telor langsung dari peternak.",
+				"price": 29000,
+				"imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//105/MTA-8789343/afcbandung_telur_ayam_negri_500gr_telor_ayam_1-2kg_full01_hu94ssrm.jpg"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "24 jam",
 
 		"facilities": [
 			{
-				"name": "Porsi Besar",
+				"name": "Barang Lengkap",
 				"icon": "Coffee"
 			},
 			{
@@ -375,47 +387,48 @@
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "24 jam",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.9,
+		"reviewedBy": 823
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
-		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"name": "President Fotokopi",
+		"slug": "presiden-fotokopi",
+		"category": "Jasa",
+		"description": "Tempat fotokopi dan peralatan sekolah",
+		"tag": "FOTOKOPI",
+		"imageUrl": "/images/thumbnails/pres.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat":  -6.863359791288055,
+			"lng":  107.59126328862237
+
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "Print A4",
+				"description": "Print 1 lembar",
+				"price": 1000,
+				"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-yhzOaVi78ADs6wHATJfH1IH_xnVCstum1nXJA5JAOtLpIC2bylPmI-SmejBvaGmrIY&usqp=CAU"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Cetak Foto",
+				"description": "Cetak foto, menyesuaikan ukuran yang dipilih",
+				"price": 2000,
+				"imageUrl": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/5/3/611d413f-6ca7-4822-a87e-e46a5f360ce5.jpg"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "05.30-22.00",
 
 		"facilities": [
 			{
-				"name": "Porsi Besar",
+				"name": "Kualitasnya Bagus",
 				"icon": "Coffee"
 			},
 			{
@@ -423,43 +436,44 @@
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Karyawannya Banyak Pengetahuan, Sangat Membantu",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.9,
+		"reviewedBy": 1789
 	},
 	{
-		"name": "Nasi Goreng Pak Ohim",
-		"slug": "nasi-goreng-pak-ohim",
+		"name": "Jus Egan71",
+		"slug": "jus-egan-71",
 		"category": "Kuliner",
-		"description": "Warung Nasi Goreng",
-		"tag": "MAKANKENYANG",
-		"imageUrl": "/images/thumbnail/ohim.jpeg",
+		"description": "Warung jus literan yang sangat segar",
+		"tag": "JUSMURAH",
+		"imageUrl": "/images/thumbnails/jus.jpg",
 
 		"coordinates": {
-			"lat": -6.912345,
-			"lng": 107.612345
+			"lat": -6.862550022122971,
+			"lng": 107.59006165266614
+
 		},
 
 		"items": [
 			{
-				"name": "Nasi Goreng Spesial",
-				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
-				"price": 18000,
-				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+				"name": "Jus Alpukat",
+				"description": "Jus alpukat yang dijual perliter dilengkapi susu kental manis coklat",
+				"price": 12000,
+				"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZET8YYhkINrK-tGcyaI9DAcAzGH_jFiD4-Q&s"
 			},
 			{
-				"name": "Mie Goreng",
-				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
-				"price": 15000,
-				"imageUrl": "/images/items/mie-goreng.jpg"
+				"name": "Jus strawberyy",
+				"description": "Jus yang dijual perliter murah dan segar.",
+				"price": 10000,
+				"imageUrl": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2022/08/30101415/Sering-Konsumsi-Jus-Stroberi-Ini-X-Manfaat-yang-Diperoleh.jpg"
 			}
 		],
 
-		"schedule": "17.00-23.00",
+		"schedule": "07.00-18.00",
 
 		"facilities": [
 			{
@@ -471,12 +485,12 @@
 				"icon": "Coffee"
 			},
 			{
-				"name": "Free Refill Es Teh",
+				"name": "Segar",
 				"icon": "Coffee"
 			}
 		],
 
-		"rating": 4.4,
-		"reviewedBy": 523
+		"rating": 4.9,
+		"reviewedBy": 1098
 	}
 ]

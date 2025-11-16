@@ -17,7 +17,7 @@ const PlaceCard = ({ title, href, description, image, useCTA, useBorder, size }:
     return (
         <Link href={`/profile/${href}`} className = {`flex bg-white w-full rounded-xl items-center elative ${size == 'sm' ? `flex-row gap-2 p-2 ${useBorder && 'border border-slate-200'}` : `flex-col gap-1 ${useBorder && 'border border-slate-200 p-1'}`}`}>
             <div className = "relative w-full flex gap-2 items-center">
-                <div className = {`relative bg-black overflow-hidden rounded-md rounded-lg ${size == 'sm' ? 'size-12' : 'h-48 w-full'}`}>
+                <div className = {`relative bg-black overflow-hidden rounded-md rounded-lg ${size == 'sm' ? 'size-12 min-w-12' : 'h-48 w-full'}`}>
                     <img src = {image} className = "absolute top-1/2 -translate-y-1/2 mask-radial-from-70% w-full h-auto object-cover opacity-80"/>
                 
                     <div className="w-full h-full absolute bottom-0 bg-black mask-t-from-0% rounded-xl"></div>

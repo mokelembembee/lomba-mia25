@@ -25,10 +25,6 @@ const ProfilePage = async (props: { params: Promise<{ slug: string }> }) => {
 
     return (
 		<main className="w-full h-auto p-4">
-			<div className="flex flex-col">
-				<h2>Sekitar</h2>
-			</div>
-
 			<div className="w-full min-h-screen border border-border rounded-3xl p-2">
 				<div className="h-[65vh] w-full rounded-2xl overflow-hidden bg-black relative">
 					<img

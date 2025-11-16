@@ -107,6 +107,7 @@ const DashboardPage = async () => {
 							<PlaceCard
 								key={index}
 								title={business.name}
+                                image={business.imageUrl}
 								description={business.description}
 								useCTA
                                 href={business.slug}
@@ -213,6 +214,7 @@ const DashboardPage = async () => {
                         return (
                             <div className="flex flex-col gap-2" key={index}>
                                 <PlaceCard
+                                    image={business.imageUrl}
                                     title={business.name}
                                     description={business.description}
                                 href={business.slug}

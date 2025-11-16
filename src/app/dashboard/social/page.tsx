@@ -213,14 +213,15 @@ const DashboardSocialPage = () => {
                 </div>
 
                 <div className="grid grid-cols-3 auto-rows-[80px] gap-2 px-10 pb-8">
-                    <div className="bg-red-500 rounded-lg row-span-3" />
-                    <div className="bg-red-500 rounded-lg row-span-2" />
-                    <div className="bg-red-500 rounded-lg row-span-4" />
-                    <div className="bg-red-500 rounded-lg row-span-3" />
-                    <div className="bg-red-500 rounded-lg row-span-2" />
-                    <div className="bg-red-500 rounded-lg row-span-4" />
-                    <div className="bg-red-500 rounded-lg row-span-2" />
-                    <div className="bg-red-500 rounded-lg row-span-4" />
+                    <img src = "https://img.lovepik.com/photo/20211207/medium/lovepik-home-female-having-supper-selfie-at-home-at-night-picture_501563290.jpg" className = "rounded-lg row-span-3 h-full object-cover"/>
+                    <img src = "https://img.lovepik.com/photo/20211202/medium/lovepik-young-men-and-women-eat-hot-pot-selfie-picture_501432276.jpg" className = "rounded-lg row-span-2 w-full h-full object-cover"/>
+                    <img src = "https://www.shutterstock.com/image-photo/group-cheerful-pretty-asian-female-260nw-2654378129.jpg" className = "rounded-lg row-span-4 w-full h-full object-cover"/>
+                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-NiSboZ-eIiPAa_xq9FPTp_5CA657l0ORhw&s" className = "rounded-lg row-span-3 h-full object-cover"/>
+                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsXj0ChdZXmG3TbbRZJX71am5r7KUnTzT7kw&s" className = "rounded-lg row-span-2 w-full h-full object-cover"/>
+                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThoVETosIil0vvkjuMEnVKMzgThY1HWlzwLA&s" className = "rounded-lg row-span-4 w-full h-full object-cover"/>
+
+                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxv2x3Yna5Ks9RcQGAgkfCwP_G1oaxkblpQ&s" className = "rounded-lg row-span-3 h-full object-cover"/>
+                    <img src = "https://assets.promediateknologi.id/crop/0x0:672x393/750x500/webp/photo/2022/07/10/2163234179.png" className = "rounded-lg row-span-2 w-full h-full object-cover"/>
                 </div>
 
             </div>
