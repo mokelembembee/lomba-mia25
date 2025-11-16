@@ -1,0 +1,482 @@
+[
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	},
+	{
+		"name": "Nasi Goreng Pak Ohim",
+		"slug": "nasi-goreng-pak-ohim",
+		"category": "Kuliner",
+		"description": "Warung Nasi Goreng",
+		"tag": "MAKANKENYANG",
+		"imageUrl": "/images/thumbnail/ohim.jpeg",
+
+		"coordinates": {
+			"lat": -6.912345,
+			"lng": 107.612345
+		},
+
+		"items": [
+			{
+				"name": "Nasi Goreng Spesial",
+				"description": "Nasi goreng dengan campuran telur, ayam suwir, dan topping kerupuk.",
+				"price": 18000,
+				"imageUrl": "https://ik.imagekit.io/dcjlghyytp1/https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/07/fried-2509089_1920.jpg?tr=f-auto"
+			},
+			{
+				"name": "Mie Goreng",
+				"description": "Mie goreng kampung dengan bumbu khas Pak Ohim.",
+				"price": 15000,
+				"imageUrl": "/images/items/mie-goreng.jpg"
+			}
+		],
+
+		"schedule": "17.00-23.00",
+
+		"facilities": [
+			{
+				"name": "Porsi Besar",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Harga Murah",
+				"icon": "Coffee"
+			},
+			{
+				"name": "Free Refill Es Teh",
+				"icon": "Coffee"
+			}
+		],
+
+		"rating": 4.4,
+		"reviewedBy": 523
+	}
+]
